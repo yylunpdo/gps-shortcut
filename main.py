@@ -8,8 +8,8 @@ deterministic: the same line is printed on every run.
 
 ENTRY = (
     "the map swore it was a shortcut, so i believed it. the lake was not "
-    "on my screen, the wedding was not on my calendar \u2014 and technically "
-    "you did arrive, just fashionably late and slightly damp."
+    "on my screen, the wedding was not on my calendar \u2014 and you did "
+    "arrive, fashionably late, slightly damp, but scenic."
 )
 
 

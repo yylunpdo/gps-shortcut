@@ -8,9 +8,9 @@ Entry for the [make.fun](https://make.fun/c/u-alven-the-gps-swears-it-was-a-shor
 
 ## Entry
 
-> the map swore it was a shortcut, so i believed it. the lake was not on my screen, the wedding was not on my calendar — and technically you did arrive, just fashionably late and slightly damp.
+> the map swore it was a shortcut, so i believed it. the lake was not on my screen, the wedding was not on my calendar — and you did arrive, fashionably late, slightly damp, but scenic.
 
-(191 characters, one line.)
+(183 characters, one line.)
 
 ## Run
 
